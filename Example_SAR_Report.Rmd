@@ -91,7 +91,7 @@ SPC_SUM <- FN123 %>%
 Results:
 :::
 
-A total of `r SPC_TOTAL` fish comprised of `r SPC_NUM` species were caught during the `r FN011$YEAR` Inner Bay Fish Community Hoop Net Survey. `r SPC_SUM$SPC_NMCO[1]` (n=`r SPC_SUM$CATCNT[1]`) was the most abundant species, representing `r SPC_SUM$PER_CATCH[1]`% of the total catch. Other abundant fish species included `r SPC_SUM$SPC_NMCO[2]` (`r SPC_SUM$PER_CATCH[2]`%), `r SPC_SUM$SPC_NMCO[3]` (`r SPC_SUM$PER_CATCH[3]`%), and `r SPC_SUM$SPC_NMCO[4]` (`r SPC_SUM$PER_CATCH[4]`%). There were _____ species at risk (SAR) captured in the `r FN011$YEAR` survey: ____________ (n=###). There were ______ SAR mortalities in `r FN011$YEAR`.
+A total of `r SPC_TOTAL` fish comprised of `r SPC_NUM` species were caught during the `r FN011$YEAR` Inner Bay Fish Community Hoop Net Survey. `r SPC_SUM$SPC_NMCO[1]` (n=`r SPC_SUM$CATCNT[1]`) was the most abundant species, representing `r SPC_SUM$PER_CATCH[1]`% of the total catch. Other abundant fish species included `r SPC_SUM$SPC_NMCO[2]` (`r SPC_SUM$PER_CATCH[2]`%), `r SPC_SUM$SPC_NMCO[3]` (`r SPC_SUM$PER_CATCH[3]`%), and `r SPC_SUM$SPC_NMCO[4]` (`r SPC_SUM$PER_CATCH[4]`%). There was one  species at risk (SAR) captured in the `r FN011$YEAR` survey: Lake Chubsucker (n=3).
 
 <!-- Add information about SAR species manually to ensure accuracy. -->
 
